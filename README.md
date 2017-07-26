@@ -1,0 +1,2 @@
+# JavaScriptBasics-Exercises
+SoftUni Homework
